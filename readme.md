@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushker&label=Profile%20views&color=0e75b6&style=flat" alt="aayushker" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushker" alt="aayushker" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/aayushker" target="blank"><img src="https://img.shields.io/twitter/follow/aayushker?logo=twitter&style=for-the-badge" alt="aayushker" /></a> </p>
 
 - 🌱 I’m currently pursuing **BTech in CSE-AI branch.**
