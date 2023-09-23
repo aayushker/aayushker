@@ -2,14 +2,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushker&label=Profile%20views&color=0e75b6&style=flat" alt="aayushker" /> </p>
+<img align="right" src="https://github.com/aayushker/aayushker/assets/134710667/9612c2dc-0b10-4605-add9-37f51044adfc" alt="aayushker" />
 
 <p align="left"> <a href="https://twitter.com/aayushker" target="blank"><img src="https://img.shields.io/twitter/follow/aayushker?logo=twitter&style=for-the-badge" alt="aayushker" /></a> </p>
 
 - 🌱 I’m currently pursuing **BTech in CSE-AI branch.**
 
 - 📫 Reach me at **singhaayushker@gmail.com**
-
-![giphy (1)](https://github.com/aayushker/aayushker/assets/134710667/9612c2dc-0b10-4605-add9-37f51044adfc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
