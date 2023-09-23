@@ -45,14 +45,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aayushker&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation">
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushker&show_icons=true&locale=en&layout=compact" alt="aayushker" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushker&show_icons=true&locale=en" alt="aayushker" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushker&" alt="aayushker" /></p> -->
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aayushker"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aayushker" /></a></p>
