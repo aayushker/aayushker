@@ -9,6 +9,8 @@
 
 - 📫 Reach me at **singhaayushker@gmail.com**
 
+![giphy (1)](https://github.com/aayushker/aayushker/assets/134710667/9612c2dc-0b10-4605-add9-37f51044adfc)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aayushker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushker" height="30" width="40" /></a>
