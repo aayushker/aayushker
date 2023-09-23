@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushker&label=Profile%20views&color=0e75b6&style=flat" alt="aayushker" /> </p>
 
-<img align="right" src="https://github.com/aayushker/aayushker/assets/134710667/9612c2dc-0b10-4605-add9-37f51044adfc" alt="aayushker" width="40%"/>
+<img align="right" src="https://github.com/aayushker/aayushker/assets/134710667/9612c2dc-0b10-4605-add9-37f51044adfc" alt="aayushker" width="50%"/>
 
 <p align="left"> <a href="https://twitter.com/aayushker" target="blank"><img src="https://img.shields.io/twitter/follow/aayushker?logo=twitter&style=for-the-badge" alt="aayushker" /></a> </p>
 
@@ -40,8 +40,8 @@
 <!-- <p align="right"> <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" alt="aayushker"/> </p>
 <br> -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aayushker&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aayushker&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aayushker&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushker&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
