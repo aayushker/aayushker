@@ -1,4 +1,4 @@
-<h1 align="center">Hello world👋, I'm Aayushker Singh</h1>
+<h1 align="center">Hello everyone👋, I'm Aayushker Singh</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushker&label=Profile%20views&color=0e75b6&style=flat" alt="aayushker" /> </p>
@@ -10,6 +10,12 @@
 - 🌱 I’m currently pursuing **BTech in CSE-AI branch.**
 
 - 📫 Reach me at **singhaayushker@gmail.com**
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello&nbsp;World!%22);print(%22Hello&nbsp;World!%22);printf(%22Hello&nbsp;World!%22);fmt.Println(%22Hello&nbsp;World!%22);println!(%22Hello&nbsp:World!%22);cout%20%3C%3C%20%22Hello&nbsp:World!%22&center=true&size=18&width=550">
+  </a>
+</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
