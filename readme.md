@@ -10,7 +10,7 @@
 - 🌱 I’m currently pursuing **BTech in CSE-AI branch.**
 
 - 📫 Reach me at **singhaayushker@gmail.com**
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aayushker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushker" height="30" width="40" /></a>
