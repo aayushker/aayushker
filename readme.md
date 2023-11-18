@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/aayushker" target="blank"><img src="https://img.shields.io/twitter/follow/aayushker?logo=twitter&style=for-the-badge" alt="aayushker" /></a> </p>
 
 - 🌱 I’m currently pursuing **BTech in CSE-AI branch.**
-- ⚡ I'm currently learning JavaScript.**
+- ⚡ I'm currently learning **JavaScript**.
 
 - 📫 Reach me at **singhaayushker@gmail.com**
   
