@@ -10,7 +10,7 @@
 - 🌱 I’m a sophomore **Computer Science** student.
 - ⚡ I'm currently learning **C++** and **ReactJS**.
 - 🔭 I’m currently working on **NewzSync**
-- 💬 Ask me about **Web Development and Linux**
+- 💬 Ask me about **Web Development** and **Linux**
 - 📫 Reach me at **singhaayushker@gmail.com**
   
 <h3 align="left">Languages and Tools:</h3>
@@ -54,7 +54,7 @@
 <a href="https://linkedin.com/in/aayushker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushker" height="30" width="40" /></a>
 <a href="https://twitter.com/aayushker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushker" height="30" width="40" /></a>
 <a href="https://instagram.com/aayushkers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayushkersingh" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aayushker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aayushker/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aayushker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aayushker/" height="30" width="40" /></a>
 
 <!-- <a href="https://www.youtube.com/@aayushker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aayushker singh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aayushker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aayushker" height="30" width="40" /></a>
