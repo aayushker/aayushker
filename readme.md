@@ -88,20 +88,21 @@
   <tr>
     <td align="left" style="border: none;">
       <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushker&theme=radical&hide_border=true" alt="aayushker's GitHub streak stats"/><br/>
-        <img src="https://github-readme-stats.vercel.app/api?username=aayushker&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="aayushker's GitHub stats"/><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushker&theme=radical&hide_border=true" alt="aayushker's GitHub streak stats"/><br/>      
+        <a href="https://wakatime.com/@aayushker">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushker&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" alt="aayushker's Wakatime stats" width="100%"/>
+      </a>
       </div>
     </td>
     <td align="right" style="border: none;">
-      <a href="https://wakatime.com/@aayushker">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushker&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" alt="aayushker's Wakatime stats" width="100%"/>
-      </a>
+ <img src="https://github-readme-stats.vercel.app/api?username=aayushker&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="aayushker's GitHub stats"/><br/>
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushker&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="aayushker's top languages"/>
       </div>
     </td>
   </tr>
 </table>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aayushker&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
