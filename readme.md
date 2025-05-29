@@ -10,7 +10,7 @@
 - 🌱 I’m a junior **Computer Science** student.
 - 🔭 I’m currently working on **RetroElectro**
 - 💬 Ask me about **Web Development** and **Linux**
-- 🤓 I use **Arch** between!
+- 🤓 I use **Arch**, btw!
 - 📫 Reach me at **singhaayushker@gmail.com**
 <!-- - ⚡ I'm currently learning **Django** and **Next.js**. -->
 
