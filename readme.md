@@ -8,11 +8,12 @@
 <!-- <p align="left"> <a href="https://twitter.com/aayushker" target="blank"><img src="https://img.shields.io/twitter/follow/aayushker?logo=twitter&style=for-the-badge" alt="aayushker" /></a> </p> -->
 
 - 🌱 I’m a junior **Computer Science** student.
-- ⚡ I'm currently learning **Django** and **Next.js**.
-- 🔭 I’m currently working on **PreferShop**
+- 🔭 I’m currently working on **RetroElectro**
 - 💬 Ask me about **Web Development** and **Linux**
+- 🤓 I use **Arch** between!
 - 📫 Reach me at **singhaayushker@gmail.com**
-  
+<!-- - ⚡ I'm currently learning **Django** and **Next.js**. -->
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   
