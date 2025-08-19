@@ -7,7 +7,7 @@
 [![wakatime](https://wakatime.com/badge/user/018dccea-572d-4bff-b35f-74753ebb999c.svg)](https://wakatime.com/@018dccea-572d-4bff-b35f-74753ebb999c)
 <!-- <p align="left"> <a href="https://twitter.com/aayushker" target="blank"><img src="https://img.shields.io/twitter/follow/aayushker?logo=twitter&style=for-the-badge" alt="aayushker" /></a> </p> -->
 
-- 🌱 I’m a junior **Computer Science** student.
+- 🌱 I’m a **Computer Science** student.
 - 🔭 I’m currently working on **RetroElectro**
 - 💬 Ask me about **Web Development** and **Linux**
 - 🤓 I use **Arch**, btw!
