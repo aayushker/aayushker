@@ -99,6 +99,34 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aayushker&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+
+## 🎖️ DSA Badges @LeetCode
+<p align="center">
+    <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="60px" style="margin-right: 50px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="60px" style="margin-right: 50px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="60px" style="margin-right: 50px;">
+    <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" width="60px" style="margin-right: 50px;">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="60px" style="margin-right: 10px;">
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
